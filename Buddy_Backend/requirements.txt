@@ -1,0 +1,6 @@
+# If this was the combined result you want:
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+openai

@@ -1,0 +1,65 @@
+Coozmoo Technologies – Department Directory
+
+1. Engineering Department
+   - Focus: Product development, backend & frontend engineering, DevOps, infrastructure
+   - Teams:
+     • Frontend Team (React, Angular)
+     • Backend Team (Node.js, Python, .NET)
+     • DevOps & Cloud Engineering
+     • QA & Testing
+   - Head of Department: Rohan Malhotra (VP Engineering)
+   - Email: rohan.malhotra@coozmoo.com
+
+2. Data Science & AI Department
+   - Focus: Machine Learning, AI, RAG systems, Analytics, Data Engineering
+   - Teams:
+     • Data Engineering
+     • Machine Learning & NLP
+     • Business Intelligence & Reporting
+   - Head of Department: Dr. Meera Kapoor (Chief AI Officer)
+   - Email: meera.kapoor@coozmoo.com
+
+3. Product Management Department
+   - Focus: Product strategy, roadmap, requirements, cross-functional alignment
+   - Teams:
+     • Product Strategy
+     • UX Research
+     • Competitive Analysis
+   - Head of Department: Aarav Shah (Director of Product)
+   - Email: aarav.shah@coozmoo.com
+
+4. Human Resources (HR) Department
+   - Focus: Recruitment, onboarding, payroll, employee engagement
+   - Teams:
+     • Talent Acquisition
+     • Employee Engagement
+     • HR Operations
+   - Head of Department: Nidhi Verma (Head of HR)
+   - Email: nidhi.verma@coozmoo.com
+
+5. Sales & Marketing Department
+   - Focus: Lead generation, client acquisition, branding, digital marketing
+   - Teams:
+     • Digital Marketing
+     • B2B Sales
+     • Content & Social Media
+   - Head of Department: Kunal Deshmukh (CMO)
+   - Email: kunal.deshmukh@coozmoo.com
+
+6. Finance & Legal Department
+   - Focus: Financial planning, compliance, contracts, procurement
+   - Teams:
+     • Financial Analysis
+     • Legal & Compliance
+     • Vendor Management
+   - Head of Department: Priya Singh (CFO)
+   - Email: priya.singh@coozmoo.com
+
+7. Customer Success & Support Department
+   - Focus: Client onboarding, technical support, training, retention
+   - Teams:
+     • Technical Support
+     • Customer Training
+     • Client Relationship Management
+   - Head of Department: Alok Reddy (Head of Customer Experience)
+   - Email: alok.reddy@coozmoo.com

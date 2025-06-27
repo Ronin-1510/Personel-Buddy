@@ -1,0 +1,121 @@
+
+Filename: leave_policy.txt
+Company: Coozmoo Technologies
+Title: Comprehensive Leave Policy – 2025 Edition
+
+# Coozmoo Technologies – Leave Policy Document
+
+## 1. Purpose
+This policy outlines the types of leave available at Coozmoo Technologies to ensure employees can manage their personal needs while supporting team goals. Our aim is to foster a healthy and productive work culture with the flexibility to accommodate real-life events.
+
+## 2. ypes of Leave
+
+### 2.1 Casual Leave (CL)
+- Entitlement: 12 days/year
+- Usage: Short-term absences like personal work, minor illness.
+- Max at once: Up to 3 days at a time without escalation.
+- Carry Forward:  Not allowed
+
+### 2.2 Sick Leave (SL)
+- Entitlement: 8 days/year
+- Usage: For illness, medical emergencies.
+- Proof: Medical certificate required for absences longer than 2 days.
+- Carry Forward:  Not allowed
+- Can be clubbed with: Casual or Earned Leave if needed.
+
+### 2.3 Earned Leave (EL) / Paid Leave
+- Entitlement: 1.25 days earned per month = 15 days/year
+- Carry Forward:  Up to 30 days
+- Encashment:  Allowed on resignation or end of financial year (optional)
+
+### 2.4 Maternity Leave
+- Entitlement: 26 weeks (as per Maternity Benefits Act)
+- Eligibility: Female employees who’ve completed 80 working days in past 12 months.
+- Extension: Additional 4 weeks (unpaid) on doctor's recommendation.
+
+### 2.5 Paternity Leave
+- Entitlement: 7 days
+- Eligibility: Male employees within 6 months of child’s birth.
+
+### 2.6 Adoption Leave
+- Entitlement: 12 weeks for female employees adopting a child < 3 months old.
+- Male employees: 7 days
+
+### 2.7 Bereavement Leave
+- Entitlement: 3 days
+- Covered relations: Parent, spouse, child, sibling, grandparent.
+
+### 2.8 Compensatory Off (Comp Off)
+- When: If employee works on a weekend or public holiday
+- Claim deadline: Within 30 days
+- Approval: Requires reporting manager's written confirmation.
+
+### 2.9 Optional Holidays (Floating Leave)
+- Entitlement: 2 per year
+- Examples: Religious/cultural holidays not covered in public list.
+
+### 2.10 Special Leave
+- Purpose: Jury duty, public service, blood donation, election duty.
+- Duration: Case-based; contact HR for each.
+
+## 3.  Leave Application Process
+
+| Type of Leave | Minimum Notice Period | Mode of Application |
+|---------------|------------------------|----------------------|
+| Casual Leave | 1 day                  | HRMS Portal          |
+| Earned Leave | 5 days                 | HRMS Portal + Manager approval |
+| Sick Leave   | Notify same day        | HRMS Portal or Email |
+| Maternity/Paternity | 30 days         | Letter to HR         |
+| Emergency Leave | ASAP (same day)     | Phone + HRMS later   |
+
+- All leaves must be applied via the HRMS System.
+- Email or Slack updates are not considered official unless reflected in HRMS.
+
+## 4.  Leave Balance & Carry Forward Rules
+- View Balances: On Employee Dashboard
+- CL/SL Expiry: End of calendar year
+- EL Carry Forward: Max 30 days
+- Negative Balance: Leave Without Pay (LWP) if you exceed available leaves
+
+## 5.  Leave Rules and Violations
+- Repeated unplanned absences will be flagged during performance reviews.
+- More than 3 consecutive days without intimation = "Absconding" notice
+- Leave abuse may impact bonuses or promotions.
+
+## 6.  Leave Encashment Policy
+- When eligible? During full & final settlement or once a year
+- Rate: Last drawn basic salary per day x No. of EL days
+- Max encashable: 30 days per year
+
+## 7.  Company Holidays
+- Official company calendar includes:
+  - 10 National/Public Holidays
+  - 2 Optional Holidays
+  - Published every December for the next year
+
+## 8.  Common FAQs
+
+Q: Can I take 2 Casual Leaves and 1 Sick Leave together?
+ Yes, if you inform your manager and apply in HRMS.
+
+Q: What happens to my unused Sick Leave?
+ It will lapse at year-end. No carry forward or encashment.
+
+Q: Can I apply for backdated leave?
+ Not recommended unless emergency. Approval depends on manager/HR.
+
+Q: Do holidays sandwiched between leaves get counted?
+ No. Holidays are not counted unless leave is continuous over 3+ days.
+
+Q: How to apply for Comp-Off?
+ Fill the comp-off request in HRMS and upload your manager’s approval.
+
+## 9.  Contact for Leave Support
+If you have doubts about your leave balance, entitlements, or how to apply:
+
+-  hr@coozmoo.com
+-  HR Helpline: +91-XXX-XXX-XXXX
+-  HR Cabin: 3rd Floor, Admin Wing
+
+ Last Updated: May 2025
+ Maintained By: HR Operations, Coozmoo Technologies Pvt. Ltd.

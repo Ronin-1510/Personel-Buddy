@@ -1,0 +1,85 @@
+# Managers Directory – Coozmoo Technologies
+
+Below is the list of department managers at Coozmoo Technologies, including their role, contact details, and assigned teams.
+
+1. Name: Rahul Mehta
+   Department: Engineering
+   Role: Senior Engineering Manager
+   Email: rahul.mehta@coozmoo.com
+   Phone: +91-9123456001
+   Team Size: 18
+
+2. Name: Priya Joshi
+   Department: Human Resources (HR)
+   Role: HR Manager
+   Email: priya.joshi@coozmoo.com
+   Phone: +91-9123456002
+   Team Size: 6
+
+3. Name: Sneha Kapoor
+   Department: Finance & Accounting
+   Role: Finance Manager
+   Email: sneha.kapoor@coozmoo.com
+   Phone: +91-9123456003
+   Team Size: 5
+
+4. Name: Aman Reddy
+   Department: Product Development
+   Role: Product Manager
+   Email: aman.reddy@coozmoo.com
+   Phone: +91-9123456004
+   Team Size: 10
+
+5. Name: Karan Sharma
+   Department: Sales & Marketing
+   Role: Sales Director
+   Email: karan.sharma@coozmoo.com
+   Phone: +91-9123456005
+   Team Size: 15
+
+6. Name: Neha Verma
+   Department: Customer Support
+   Role: Support Operations Manager
+   Email: neha.verma@coozmoo.com
+   Phone: +91-9123456006
+   Team Size: 8
+
+7. Name: Simran Mehta
+   Department: Legal & Compliance
+   Role: Legal Head
+   Email: simran.mehta@coozmoo.com
+   Phone: +91-9123456007
+   Team Size: 4
+
+8. Name: Yash Patel
+   Department: IT & Infrastructure
+   Role: IT Services Manager
+   Email: yash.patel@coozmoo.com
+   Phone: +91-9123456008
+   Team Size: 7
+
+9. Name: Ankit Sharma
+   Department: Strategy & Growth
+   Role: Strategy Manager
+   Email: ankit.sharma@coozmoo.com
+   Phone: +91-9123456009
+   Team Size: 3
+
+10. Name: Divya Kapoor
+    Department: Public Relations (PR)
+    Role: PR & Communications Manager
+    Email: divya.kapoor@coozmoo.com
+    Phone: +91-9123456010
+    Team Size: 2
+
+
+11. Name: Arjun Purohit
+    Department: Design department.
+    Role: Design Vission
+    Email: Arjun Purohit@coozmoo.com
+    Phone: +91-9123456010
+    Team Size: 1
+
+Note:
+- These contacts are internal and intended for Coozmoo employees only.
+- Updates should be routed through the HR team.
