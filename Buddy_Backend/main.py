@@ -43,6 +43,7 @@ chunk_metadata = [
     for chunk in chunks
 ]
 
+ 
 @app.post("/ask")
 def ask(query: Query):
     top_chunks = search(query.question, faiss_index, chunk_metadata, top_k=3)
