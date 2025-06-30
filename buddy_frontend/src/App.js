@@ -1,6 +1,6 @@
 // File: src/App.js
 import React, { useState } from 'react';
-
+import axios from "axios"; // ✅ FIXED: Import axios
 function App() {
   const [question, setQuestion] = useState('');
   const [answer, setAnswer] = useState('');
@@ -10,11 +10,10 @@ function App() {
   const askBuddy = async () => {
     setLoading(true);
     try {
-      const response = await fetch("http://127.0.0.1:8000/ask", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question })
-      });
+   const response = await axios.post(
+  "https://buddy-backend-fastapi-chcxejhzefdmgpdt.germanywestcentral-01.azurewebsites.net/ask",
+  { question: question }
+);
 
       const data = await response.json();
       setAnswer(data.answer);
