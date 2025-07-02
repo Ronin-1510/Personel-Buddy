@@ -46,6 +46,7 @@ chunk_metadata = [
  
 @app.post("/ask")
 def ask(query: Query):
+    print("Hello yash")
     top_chunks = search(query.question, faiss_index, chunk_metadata, top_k=3)
     context = [text for text, _ in top_chunks]
     answer = generate_answer(context, query.question)

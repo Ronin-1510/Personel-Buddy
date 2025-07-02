@@ -1,4 +1,0 @@
-[build]
-base = "buddy_frontend"
-publish = "buddy_frontend/build"
-command = "npm run build"
