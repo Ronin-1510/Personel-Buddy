@@ -7,7 +7,9 @@ from embedder import get_embedding
 from vector_store import build_faiss_index, search
 from answer_generation import generate_answer
 
+
 app = FastAPI()
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -17,11 +19,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 class Query(BaseModel):
     question: str
 
+
 chunks = load_and_chunk_documents("Documents")
 print(f"✅ Loaded {len(chunks)} chunks")
+
 
 embeddings = []
 for chunk in chunks:
@@ -30,6 +35,8 @@ for chunk in chunks:
     if vector:
         embeddings.append(vector)
 print(f"✅ Collected {len(embeddings)} embeddings")
+
+
 
 if not embeddings:
     print("❌ No embeddings found. Something went wrong.")
@@ -43,10 +50,11 @@ chunk_metadata = [
     for chunk in chunks
 ]
 
+
  
 @app.post("/ask")
 def ask(query: Query):
-    print("Hello yash")
+
     top_chunks = search(query.question, faiss_index, chunk_metadata, top_k=3)
     context = [text for text, _ in top_chunks]
     answer = generate_answer(context, query.question)
